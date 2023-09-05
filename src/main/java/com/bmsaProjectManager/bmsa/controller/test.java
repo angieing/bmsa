@@ -8,8 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class test {
     //Esto es una variable que es parte de la clase test
 
-    /*Esto es una variable que es parte de la clase test */
-    String hola = "hola esto es una variable";
+    
 
     /*Eso es un método que va imprimir el mensaje imprimiré algo */
     public static void hacerAlgo(){
