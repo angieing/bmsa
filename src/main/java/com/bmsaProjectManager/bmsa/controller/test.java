@@ -10,10 +10,7 @@ public class test {
 
     
 
-    /*Eso es un método que va imprimir el mensaje imprimiré algo */
-    public static void hacerAlgo(){
-        System.out.println("Imprimire algo");
-    }
+   
 
     //Es un método con petición GET llamado desde la clase controlador
     @RequestMapping(value = "status", method = RequestMethod.GET)
